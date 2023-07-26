@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0px;
+    font-family: "Roboto";
+}
+
+.main-container {
+    /* background-color:#c8d4e6; */
+    height: 100vh;
+}
+
+.heading {
+    color: white;
+    font-size: 38px;
+    padding: 25px;
+    height: 40px;
+    text-align: center;
+}
+
+.heading-bar {
+    background-color: #074094;
+    height: 130px;
+}
+
+.center-card {
+    /* border:2px solid  #074094  */
+    margin: 30px;
+    padding: 15px;
+    border-radius: 10px;
+    /* width: 800px; */
+    /* height:100px; */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.input-para {
+    color: #074094;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.input-heading {
+    color: #07ab2d;
+    font-size: 40px;
+}
+
+.func-heading {
+    color: #063b8c;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.bt-1 {
+    color: #074094;
+    background-color: #d1edff;
+    font-size: 20px;
+    font-weight: bold;
+    border: 2px solid #074094;
+    border-radius: 9px;
+    margin: 10px;
+    padding: 7px;
+    height: 50px;
+    box-shadow: 9px 9px 4px #074094;
+}
+
+.output-heading {
+    color: #f7a752;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.output-para {
+    color: #074094;
+    font-size: 39px;
+    font-weight: bold;
+}
